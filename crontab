@@ -1,0 +1,1 @@
+@reboot sleep 300 && DISPLAY=:0 /home/manthan/shell_scripting/bing_wallpaper.sh
